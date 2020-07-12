@@ -1,5 +1,7 @@
 # Finance | Engineering | Somewhat decent baking
 
+Self trained engineer, 3x founder, data & financial analysis.
+
 
 - 🔭 I’m currently working on data analyics @ an affordable housing non profit
 - 🌱 I’m currently learning React, fullstack JS, python
