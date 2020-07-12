@@ -8,3 +8,4 @@ Self trained engineer, 3x founder, data & financial analysis.
 - 💬 Ask me about finance, startups, food recommendations
 
 
+![](https://www.am.xyz/api/t/px)
